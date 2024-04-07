@@ -1,4 +1,4 @@
 # vars file
-'vars/environment_vars.json'
-'vars/environment_vars_test.json'
+vars/environment_vars.json
+vars/environment_vars_test.json
 
