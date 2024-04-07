@@ -1,0 +1,7 @@
+{
+    "pathInfo": {
+        "takeoutPrefix" : "../path/to/TakeoutFolder",
+        "takeoutFiles": ["Takeout", "Takeout-1", "Takeout-2"],
+        "zippedFiles": ["takeout_zipped1", "takeout_zipped2", "takeout_zipped3"]
+    }
+}
